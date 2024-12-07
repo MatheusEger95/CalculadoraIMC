@@ -56,7 +56,9 @@ class MainActivity : AppCompatActivity() {
                 intent.putExtra(KEY_RESULT_IMC, resultado)
                 startActivity(intent)
 
-                println("resultado do botao Calcular " + resultado)
+                // Cores
+                // EditText background + Icone
+                // Gradiente + icone + titulo + descricao
             }
         }
     }
