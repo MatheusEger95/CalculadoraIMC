@@ -75,8 +75,8 @@
         android:textColor="@color/white"
         android:text="Preencha todos os campos para calcular seu IMC"/>
 
+    </LinearLayout>
 
-    </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
